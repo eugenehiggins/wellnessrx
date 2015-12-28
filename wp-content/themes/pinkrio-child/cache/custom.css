@@ -1,0 +1,155 @@
+#slider-lead-magnet-header.slider_cycle .slide-title h2, #slider-lead-magnet-header.slider_cycle .slide-title h2 span { font-size: 46px; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: 400; }
+#slider-lead-magnet-header.slider_cycle .slide-title h2 span { font-size: 46px; font-family: 'Oswald', sans-serif; color: #f77234; font-style: normal; font-weight: 400; }
+#slider-lead-magnet-header.slider_cycle .slide-content p { font-size: 24px; font-family: 'Shadows Into Light', sans-serif; font-style: normal; font-weight: 400; }
+#slider-wellnessrxwork-toolkit.slider_cycle .slide-title h2, #slider-wellnessrxwork-toolkit.slider_cycle .slide-title h2 span { font-size: 46px; font-family: 'Oswald', sans-serif; font-style: normal; font-weight: 400; }
+#slider-wellnessrxwork-toolkit.slider_cycle .slide-title h2 span { font-size: 46px; font-family: 'Oswald', sans-serif; color: #f77234; font-style: normal; font-weight: 400; }
+#slider-wellnessrxwork-toolkit.slider_cycle .slide-content p { font-size: 24px; font-family: 'Shadows Into Light', sans-serif; font-style: normal; font-weight: 400; }
+.post-title, .post-title a { font-size: 30px; font-family: 'Raleway', sans-serif; color: #4586bf; font-style: normal; font-weight: 400; }
+.blog-big .meta a, .blog-small .meta a { font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #000000; font-style: normal; font-weight: 400; }
+.blog-big .meta a:hover, .blog-small .meta a:hover { color: #333333; }
+.section.blog .meta h4 a { font-size: 15px; font-family: 'Raleway', sans-serif; color: #030303; font-style: normal; font-weight: 400; }
+.section.blog .meta h4 a:hover { color: #f77234; }
+#footer { background: #ffffff; }
+#footer, #footer *, #copyright *, #copyright .inner, #footer .recent-post .thumb-img img, #footer .widget_archive ul li a, #footer .widget_archive ul li a:hover, #footer .widget_nav_menu ul li a, #footer .widget_nav_menu ul li a:hover, #footer .widget_pages ul li a, #footer .widget_pages ul li a:hover, #footer .widget_categories ul li a, #footer .widget_categories ul li a:hover, #footer #searchform input, #footer .widget_flickrRSS img, #footer .widget_nav_menu ul li a, #footer .widget_pages ul li a, #footer .widget_categories ul li a, #footer .widget_archive ul li a:hover, #footer .widget_nav_menu ul li.current_page_item > a, #footer .widget_pages ul li.current_page_item > a, #footer .widget_categories ul li.current_page_item > a, #footer .testimonial-widget div.name-testimonial, #footer .last-tweets-widget ul li, #footer .yit-widget-content .widget, #footer .portfolio-categories ul li, #footer .recent-comments .avatar img, #footer .more-projects-widget .work-thumb, #footer .more-projects-widget .controls, #footer .more-projects-widget .top, #footer .featured-projects-widget img, #footer .thumb-project img { border-color: #ffffff; }
+#copyright { background: #43b000; }
+.boxed #wrapper { background-color: #ffffff; }
+code, pre, body hr, #copyright .inner, #footer .inner, .gallery img, .gallery img, .content .archive-list ul, .content .archive-list ul li, .more-projects-widget .work-thumb, .more-projects-widget .controls, .more-projects-widget .top, .featured-projects-widget img, .thumb-project img, #searchform input, .portfolio-categories ul li, .portfolio-categories ul li:hover, .recent-comments .avatar img, .content .contact-form li.submit-button input, #portfolio .read-more, #portfolio .more-link, #portfolio .read-more:hover, #portfolio .more-link:hover, .accordion-title, .accordion-item-thumb img, form input[type="text"], form textarea, .testimonial-page, div.section-caption .caption, .line, .last-tweets-widget ul li, .toggle p.tab-index, .toggle .content-tab, .tabs-container ul.tabs, .tabs-container ul.tabs li a, .tabs-container ul.tabs li:last-child, .tabs-container div.border-box, .testimonial, .google-map-frame, .section.blog .post, .section.blog h4.other-articles, .section.blog .sticky .thumbnail, .section .portfolio-sticky .work-categories, .testimonial, #searchform input, .blog-big .meta p, .blog-big p.list-tags, .blog-small .image-wrap, .comment-container, .image-square-style #comments img.avatar, #comments .comment-author img, .comment-meta, #respond input, #respond textarea, img.comment-avatar, .portfolio-big-image a.thumb, .portfolio-big-image a.more, .portfolio-big-image a.more:hover, .portfolio-big-image .work-thumbnail a.nozoom, .portfolio-big-image .work-skillsdate, .internal_page_item, .gallery-wrap li h5, .gallery-filters, .portfolio-full-description a.thumb, .portfolio-full-description a.more, .portfolio-full-description a.more:hover, .portfolio-full-description .work-skillsdate, .related_img, #portfolio.columns .overlay_a, .yit-widget-content .widget, .slider.thumbnails .showcase-thumbnail img, .slider.thumbnails .showcase-thumbnail img:hover, .slider.thumbnails .showcase-thumbnail.active img, .recent-post .thumb-img img, .widget_archive ul li a, .widget_archive ul li a:hover, .widget_nav_menu ul li a, .widget_nav_menu ul li a:hover, .widget_pages ul li a, .widget_pages ul li a:hover, .widget_categories ul li a, .widget_categories ul li a:hover, #searchform input, .widget_flickrRSS img, .widget_nav_menu ul li a, .widget_pages ul li a, .widget_categories ul li a, .widget_archive ul li a:hover, .widget_nav_menu ul li.current_page_item > a, .widget_pages ul li.current_page_item > a, .widget_categories ul li.current_page_item > a, .testimonial-widget div.name-testimonial, .last-tweets-widget ul li, .yit-widget-content .widget, .portfolio-categories ul li, .recent-comments .avatar img, .more-projects-widget .work-thumb, .more-projects-widget .controls, .more-projects-widget .top, .featured-projects-widget img, .thumb-project img { border-color: #cfcfcf; }
+#back-top { background-color: #4586bf; }
+#header { background-color: #ffffff; }
+#header hr { border-color: #cfcfcf; }
+#header .menu > ul { background-color: #ffffff; }
+#header .menu > ul ul, .classic > ul ul.sub-menu li, .classic .classic > ul ul.children li { background-color: #d9d9d9; }
+.error-404-text p { font-size: 18px; font-family: 'Raleway', sans-serif; color: #585555; font-style: normal; font-weight: 400; }
+.error-404-text p a { color: #f77234; }
+.error-404-text p a:hover { color: #000000; }
+div.popup .title { font-size: 21px; font-family: 'Muli', sans-serif; color: #666767; font-style: normal; font-weight: 400; }
+div.popup, div.popup_message, div.popup_message p, div.popup_message span { font-size: 12px; font-family: 'Muli', sans-serif; color: #666767; font-style: normal; font-weight: 400; }
+#portfolios { background: #ffffff url(''); font-size: 18px; font-family: 'Abel', sans-serif; color: #000000; font-style: italic; font-weight: 700; }
+.testimonial .testimonial-text p, .testimonial .testimonial-text-full p, .testimonial-page .testimonial-text-full p { font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #585555; font-style: normal; font-weight: 400; }
+.testimonial .testimonial-name a.name, .testimonial .testimonial-name p.name, .testimonial-page .testimonial-name a.name, .testimonial-page .testimonial-name p.name { font-size: 22px; font-family: 'Shadows Into Light', sans-serif; color: #f77234; font-style: normal; font-weight: 400; }
+.testimonial .testimonial-name a.website, .testimonial-page .testimonial-name a.website { font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #4586bf; font-style: normal; font-weight: 400; }
+.testimonials-slider ul.testimonials li blockquote p a { font-size: 24px; font-family: 'Rokkitt', sans-serif; color: #030303; font-style: normal; font-weight: 400; }
+.testimonials-slider ul.testimonials li p.meta { font-size: 13px; font-family: 'Droid Sans', sans-serif; color: #030303; font-style: normal; font-weight: 700; }
+#footer, #footer p, #footer li { font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #000000; font-style: normal; font-weight: 400; }
+#footer a { color: #ffffff; }
+#footer a:hover { color: #030303; }
+#footer h3 { font-size: 20px; font-family: 'Raleway', sans-serif; color: #030303; font-style: normal; font-weight: 400; }
+#copyright, #copyright p, #copyright a { font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #fff; font-style: normal; font-weight: 400; }
+#copyright a { color: #fff; }
+#copyright a:hover { color: #fff; }
+p, li, address, dd, blockquote, td, th, .paragraph-links a, a.text-color, a { font-size: 16px; font-family: 'Raleway', sans-serif; color: #585555; font-style: normal; font-weight: 400; }
+a, a.text-color:hover { color: #4586bf; }
+a:hover { color: #030303; }
+#yit-breadcrumb a { font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #838383; font-style: normal; font-weight: 400; }
+#yit-breadcrumb a:hover { color: #535353; }
+#yit-breadcrumb a.current { color: #f77234; }
+h1, h1 a { font-size: 30px; font-family: 'Raleway', sans-serif; color: #4586bf; font-style: normal; font-weight: 700; }
+h2, h2 a { font-size: 22px; font-family: 'Raleway', sans-serif; color: #4586bf; font-style: normal; font-weight: 700; }
+h3, h3 a { font-size: 20px; font-family: 'Raleway', sans-serif; color: #030303; font-style: normal; font-weight: 400; }
+h4, h4 a { font-size: 18px; font-family: 'Raleway', sans-serif; color: #030303; font-style: normal; font-weight: 400; }
+h5, h5 a { font-size: 15px; font-family: 'Raleway', sans-serif; color: #030303; font-style: normal; font-weight: 400; }
+h6, h6 a { font-size: 12px; font-family: 'Raleway', sans-serif; color: #030303; font-style: normal; font-weight: 400; }
+#page-meta h3 { font-size: 28px; font-family: 'Raleway', sans-serif; color: #4586bf; font-style: normal; font-weight: 700; }
+#page-meta h4 { font-size: 24px; font-family: 'Raleway', sans-serif; color: #f77234; font-style: normal; font-weight: 400; }
+.special-font { font-size: 12px; font-family: 'Shadows Into Light', sans-serif; color: #4586bf; font-style: normal; font-weight: 400; }
+h1 span, h2 span, h3 span, h4 span, h5 span, h6 span { color: #f77234; }
+#back-top a, #back-top a:hover { font-size: 14px; font-family: 'Raleway', sans-serif; color: #ffffff; font-style: normal; font-weight: 700; }
+#header #logo #textual { font-size: 40px; font-family: 'Montez', sans-serif; color: #1d1d1d; font-style: normal; font-weight: 400; }
+#header #logo #textual span { font-size: 40px; font-family: 'Montez', sans-serif; color: #f77234; font-style: normal; font-weight: 400; }
+#header #logo #tagline { font-size: 18px; font-family: 'Droid Sans', sans-serif; color: #1d1d1d; font-style: normal; font-weight: 400; }
+#sidebar-header .widget h3 { font-size: 18px; font-family: 'Rokkitt', sans-serif; color: #1d1d1d; font-style: normal; font-weight: 400; }
+#sidebar-header .widget p, #sidebar-header .widget div, #sidebar-header .widget li, #sidebar-header .widget blockquote { font-size: 13px; font-family: 'Rokkitt', sans-serif; color: #939191; font-style: normal; font-weight: 400; }
+#header div.menu > ul > li > a { font-size: 15px; font-family: 'Raleway', sans-serif; color: #2d3236; font-style: normal; font-weight: 700; }
+#header div.menu > ul > li > a:hover { color: #4586bf; }
+#header div.menu > ul > li.current-menu-item > a, #header div.menu > ul > li.current-menu-ancestor > a, #header div.menu > ul > li.current_page_parent > a, #header div.menu > ul > li.current_page_ancestor > a, #header div.menu > ul > li.current_page_item > a { color: #f77234; }
+#header div.menu > ul ul li a, .classic #nav ul.sub-menu li a, #nav ul.children a { font-size: 13px; font-family: 'Droid Sans', sans-serif; color: #4586bf; font-style: normal; font-weight: 400; }
+#header div.menu > ul ul li a:hover, .classic #nav ul.sub-menu li a:hover, #nav ul.children a:hover { color: #000000; }
+#header div.menu > ul ul li.current-menu-item > a, #header div.menu > ul ul .current-menu-ancestor > a, .classic #nav ul.sub-menu li.current-menu-item a { color: #000000; }
+.sidebar h1, .sidebar h2, .sidebar h3, .sidebar h4, .sidebar h5, .sidebar h6 { font-size: 20px; font-family: 'Raleway', sans-serif; color: #4586bf; font-style: normal; font-weight: 700; }
+.sidebar p, .sidebar li, .sidebar div { font-size: 12px; font-family: 'Droid Sans', sans-serif; color: #585555; font-style: normal; font-weight: 400; }
+.sidebar a { color: #4586bf; }
+.sidebar a:hover { color: #030303; }/* HEADER STYLES */
+#header { padding-top: 0px; background:none; margin: 0 -20px 0 -20px; }
+#header .inner { width:100%; }
+#logo { padding-bottom: 0px; margin-left: 0px !important; }
+#header hr { width: 100%; }
+
+/* MAIN MENU STYLES */
+#header .menu { height: 20px; padding-top: 20px; background:none; }
+#header .menu > ul { padding-left: 20px; margin: 8px 0 0; background:none; }
+
+/* BODY BACKGROUND */
+body {   -webkit-background-size: cover;
+              -moz-background-size: cover;
+              -o-background-size: cover;
+              background-size: cover; }
+.boxed #wrapper { background-image: url('/wp-content/uploads/2013/10/rays.jpg'); background-repeat: no-repeat; background-position: top center; background-attachment: fixed; }
+
+
+/* FOOTER STYLES */
+#copyright .inner { width:100%; max-width:100%; padding-top: 0px; border-top:none; padding-left:0px; }
+#copyright { margin: 80px -20px -10px -20px; }
+
+/* EVENT & CALENDAR STYLES */
+.wpmudevevents-list table td { vertical-align: top; }
+input.wpmudevevents-no-submit, input.wpmudevevents-maybe-submit, input.wpmudevevents-yes-submit { font-size: 14px; }
+#respond p { width: 50%; }
+a.wpmudevevents-login_link-wordpress { backgrroun-image: url(http://wellnessrxcoach.com/wp-content/uploads/2013/10/favicon.png) 5px 5px no-repeat; }
+.tabs-container ul.tabs h4 {  font-size: 14px; }
+div.wpmudevevents-contentmeta { font-size: 16px; }
+table.eab-upcoming_calendar_widget td { text-align: center; }
+
+/* TEAM STYLES */
+.accordion-title.active, .accordion-title:hover { color: #f77234; }
+.accordion-item-content h4 { color: black; }
+
+/* MAIN TEXT STYLES */
+
+/* BLOG STYLES */
+.blog-big .thumbnail h1, .blog-big .thumbnail h2 { background-color:rgba(255,255,255,.9); }
+
+/* BULLET ICON STYLES */
+ul.check li {
+   background-position: 0px 6px;
+   margin-top: 10px;
+}
+
+ul.info li {
+   background-position: 0px 6px;
+   margin-top: 10px;
+}
+
+ul.star li {
+   background-position: 0px 6px;
+   margin-top: 10px;
+}
+
+ul.pdf { list-style:none; }
+ul.pdf li {
+background: url("http://wellnessrxcoach.com/wp-content/uploads/2015/01/pdf.jpg") no-repeat scroll left center transparent;
+padding: 20px 50px;
+}
+
+/* GRAVITY FORMS */
+.gform_wrapper input[type=text], .gform_wrapper textarea { font-size: 16px; } 
+
+/* MISC STYLES */
+.call-to-action .decoration-image { background: none; } 
+i { vertical-align: middle; }
+h3 span { font-size: 28px; }
+.slider.slider_cycle { padding-bottom: 25px; }
+h1, h2 { line-height: 35px; }
+h3 { line-height: 25px; }
+
+#fsb-social-bar .fsb-title { font-size: 24px!important; color: #ff0000!important; font-family:'Shadows Into Light',sans-serif !important; }
+#fsb-social-bar.fsb-fixed { border-bottom: 3px solid #ff0000; }
+
+h2.toolkit_title {
+  font-size: 46px;
+  font-family: 'Oswald',sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 60px;
+}
+
+h2.toolkit_title span { color: #f77234; font-size: 46px;}

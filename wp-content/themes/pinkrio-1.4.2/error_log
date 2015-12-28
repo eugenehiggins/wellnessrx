@@ -1,0 +1,1 @@
+[21-Nov-2013 09:51:40] PHP Fatal error:  Call to undefined function  get_header() in /home3/wellness/public_html/wp-content/themes/pinkrio/index.php on line 15

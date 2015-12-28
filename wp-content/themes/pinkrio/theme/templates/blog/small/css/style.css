@@ -1,0 +1,84 @@
+/* ===== BLOG SMALL STYLE ===== */
+
+/* === TITLE */
+.blog-small .post-title {
+    margin-bottom: 0px;
+}
+
+.blog-small .post-title a {
+    color: #030303;
+    font-size: 20px;
+}
+
+.blog-small .post-title a:hover {
+    color: #b77a2b;
+}
+
+/* === META */
+.blog-small .meta p {
+    display: inline;
+    text-transform: uppercase;
+}
+
+.blog-small .meta p:after {
+    content: ' // ';
+}
+
+.blog-small .meta p:last-child:after {
+    content: '';
+}
+
+.blog-small .meta p, .blog-small .meta p a {
+    font-size: 10px;
+}
+
+.blog-small .meta p a {
+    color: #814a08;
+}
+
+.blog-small .meta p a:hover {
+    color: #000000;
+}
+
+/* === THUMBNAIL */
+.blog-small .image-wrap {
+    border: 1px solid #CFCFCF;
+    float: left;
+    margin-top: 21px;
+    margin-right: 19px;
+    margin-bottom: 23px;     
+    padding: 5px;
+    position: relative;
+}
+
+.blog-small .image-wrap img { display: block; }
+
+.blog-small .without.thumbnail .image-wrap { display: none; }
+
+/* === CONTENT */
+.blog-small .the-content {
+    margin-top: 25px;
+}
+
+.blog-small .the-content.single {
+    margin-top: 0px;
+}
+
+/* === POST FORMATS */
+.blog-small .post-format {
+    background: url(../../../../../images/post-formats.png);
+    display: block;
+    margin: 0px;
+    position: absolute;
+    left: 12px;
+    top: 13px;
+    text-indent: -9999px;
+    width: 33px;
+    height: 33px;
+}
+
+.blog-small .without.thumbnail .post-format { left: 95.5%; }
+
+.blog-small .post-format.gallery { background-position: left top; }
+.blog-small .post-format.audio { background-position: center top; }
+.blog-small .post-format.video { background-position: right top; }

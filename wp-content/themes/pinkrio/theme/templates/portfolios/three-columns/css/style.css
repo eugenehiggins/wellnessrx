@@ -1,0 +1,27 @@
+ul#portfolio.three-columns { list-style:none; margin:0; padding-top:20px; }
+#portfolio.three-columns li { display:block; float:left; margin-bottom:40px; position: relative;}  
+#portfolio.three-columns li.first {clear:left;}
+#portfolio.three-columns li.hentry { padding:0 }
+#portfolio.three-columns li .thumb { display:block; padding:5px; border:1px solid #CFCFCF; overflow:hidden; position:relative; margin-bottom: 10px; }
+#portfolio.three-columns li img { width:365px; height:192px; max-width:100%; border:0; padding:0; display:block; border-radius:0; -moz-border-radius:0; -webkit-border-radius:0; }
+
+.portfolio.three-columns h5 a{font-size:16px;}  
+
+#portfolio.three-columns li p { margin-bottom:15px; font-size:1em } 
+#portfolio.three-columns li p img { display:block }   
+
+#portfolio.three-columns .overlay {display:none; background: none repeat scroll 0 0 #000;height:100%;left:0;overflow: hidden; position: absolute; top:0; width:100%; opacity: .7; text-align: center}
+#portfolio.three-columns .overlay a { display: block; float: left; height: 100%; width: 50%; line-height: 9999px; overflow: hidden; }
+#portfolio.three-columns .overlay a.overlay_project { background: url('../../../../../images/icons/project.png') 10% center no-repeat }
+#portfolio.three-columns .overlay a.overlay_img { background: url('../../../../../images/icons/zoom.png') 90% center no-repeat }
+#portfolio.three-columns .overlay a.overlay_video { background: url('../../../../../images/icons/play.png') 90% center no-repeat }
+#portfolio.three-columns .overlay span.overlay_title { position: absolute; bottom: 25%; color: white; text-align: center; display: block; width: 100%; font-family: 'Rokkitt', 'Georgia', 'Times New Roman', serif; font-size: 16px; line-height: 15px; }
+#portfolio.three-columns .overlay_wrapper { position:relative; }
+#portfolio.three-columns .overlay_a {
+    border: 1px solid #CFCFCF;
+    display: block;
+    margin-bottom: 10px;
+    overflow: hidden;
+    padding: 5px;
+    position: relative;
+}

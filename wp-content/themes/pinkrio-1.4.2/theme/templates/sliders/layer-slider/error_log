@@ -1,0 +1,11 @@
+[21-Nov-2013 09:51:40] PHP Fatal error:  Call to undefined function  lssliders() in /home3/wellness/public_html/wp-content/themes/pinkrio/theme/templates/sliders/layer-slider/list.php on line 10
+[21-Nov-2013 09:51:41] PHP Fatal error:  Call to undefined function  wp_upload_dir() in /home3/wellness/public_html/wp-content/themes/pinkrio/theme/templates/sliders/layer-slider/builder.php on line 4
+[21-Nov-2013 09:51:49] PHP Fatal error:  Call to undefined function  get_option() in /home3/wellness/public_html/wp-content/themes/pinkrio/theme/templates/sliders/layer-slider/layerslider.php on line 16
+[21-Nov-2013 09:51:52] PHP Fatal error:  Call to undefined function  lssliderbyid() in /home3/wellness/public_html/wp-content/themes/pinkrio/theme/templates/sliders/layer-slider/edit.php on line 10
+[21-Nov-2013 09:51:53] PHP Fatal error:  Call to undefined function  _e() in /home3/wellness/public_html/wp-content/themes/pinkrio/theme/templates/sliders/layer-slider/settings.php on line 359
+[21-Nov-2013 09:51:54] PHP Fatal error:  Call to undefined function  get_option() in /home3/wellness/public_html/wp-content/themes/pinkrio/theme/templates/sliders/layer-slider/layerslider.php on line 16
+[21-Nov-2013 09:51:57] PHP Fatal error:  Call to undefined function  yit_slide_get() in /home3/wellness/public_html/wp-content/themes/pinkrio/theme/templates/sliders/layer-slider/slider.php on line 7
+[21-Nov-2013 09:51:58] PHP Fatal error:  Call to undefined function  layerslider_check_unit() in /home3/wellness/public_html/wp-content/themes/pinkrio/theme/templates/sliders/layer-slider/init.php on line 7
+[21-Nov-2013 09:52:02] PHP Fatal error:  Call to undefined function  get_option() in /home3/wellness/public_html/wp-content/themes/pinkrio/theme/templates/sliders/layer-slider/add.php on line 5
+[21-Nov-2013 09:52:04] PHP Fatal error:  Call to undefined function  _e() in /home3/wellness/public_html/wp-content/themes/pinkrio/theme/templates/sliders/layer-slider/editor.php on line 31
+[21-Nov-2013 09:54:04] PHP Fatal error:  Call to undefined function  wp_upload_dir() in /home3/wellness/public_html/wp-content/themes/pinkrio/theme/templates/sliders/layer-slider/style_editor.php on line 4

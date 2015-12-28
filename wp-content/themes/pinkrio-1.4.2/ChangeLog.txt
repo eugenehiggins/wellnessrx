@@ -1,0 +1,342 @@
+------------------ VER 1.4.2 ---------------
+Updated: LayerSlider to 4.6.0 version
+Fixed: errors during export of site
+
+UPDATED
+core/lib/yit/Backup/Backup.php
+core/yit/Submenu/Tabs/Theme_option/General_Footer.php
+css/max-width-1024.css
+css/max-width-480.css
+theme/templates/sliders/layer-slider/*
+
+
+
+------------------ VER 1.4.1 ---------------
+Added: support with Wordpress 3.6 RC2
+Fixed: Last tweets widget, error on multiple lines
+Fixed: notice on contact form headers
+Fixed: Logo on responsive
+Fixed: Notifier cache
+Fixed: OGP title now use the correct title also if you use SEO options
+
+UPDATED
+core/assets/css/tinymce.css
+core/assets/js/panel.js
+core/functions-core.php
+core/functions-template.php
+core/lib/yit/Backup/Backup.php
+core/lib/yit/Walker/Walker_Nav_Menu.php
+core/lib/yit/Walker/Walker_Nav_Menu_Edit.php
+core/templates/admin/tinymce/lightbox.php
+core/widgets/last_tweets.php
+core/yit/Accordion.php
+core/yit/CPT_Unlimited.php
+core/yit/Notifier.php
+core/yit/Portfolio.php
+css/max-width-1024.css
+css/max-width-480.css
+js/jquery.custom.js
+languages/default.po
+languages/ru_RU.mo
+languages/ru_RU.po
+languages/yit.pot
+theme/templates/comments/trackbacks.php
+theme/templates/portfolios/full-description/markup.php
+theme/yit/Accordion.php
+theme/yit/Contact_Form.php
+style.css
+
+------------------ VER 1.4.0 ---------------
+Added: Back to top button
+Added: link excerpt shortcode section blog
+Added: OGP Meta tags
+Added: confirm message when you want install the sample data
+Added: wpml-config.xml
+Added: Support for description in Categories and Tags pages
+Added: global options for Twitter API
+Updated: Twitter widget and shortcode now work with new API
+Updated: language files
+Fixed: SEO Options
+Fixed: error in features tab attribute
+Fixed : Trackbacks disable correctly on blog posts
+Fixed: time loading of the theme
+Fixed: title font option in blog small
+Fixed: exclude categories in widget almost categories
+Fixed: category in shortcode [posts]
+Fixed: Show tags option for the blog now works fine
+
+======
+
+CHANGED FILES:
+cache/google_fonts.json
+core/assets/js/twitter-text.js
+core/functions-core.php
+core/functions-template.php
+core/hooks.php
+core/templates/admin/panel/notifier.php
+core/templates/admin/tinymce/lightbox.php
+core/templates/shortcodes/button.php
+core/templates/shortcodes/posts.php
+core/templates/shortcodes/toggle.php
+core/templates/shortcodes/twitter.php
+core/widgets/almost_all_categories.php
+core/widgets/last_tweets.php
+core/widgets/recent_comments.php
+core/yit/CPT_Unlimited.php
+core/yit/Css.php
+core/yit/Dashboard.php
+core/yit/Debug.php
+core/yit/Features_Tab.php
+core/yit/Portfolio.php
+core/yit/Shortcodes.php
+core/yit/Submenu/Tabs/Theme_option/Blog_Settings.php
+core/yit/Submenu/Tabs/Theme_option/General_Integration.php
+core/yit/Submenu/Theme_option.php
+header.php
+js/jquery.custom.js
+languages/default.po
+languages/ru_RU.mo
+languages/ru_RU.po
+languages/yit.pot
+single-portfolios.php
+style.css
+theme/config.php
+theme/functions-template.php
+theme/functions-theme.php
+theme/hooks.php
+theme/panel/theme-options/colors-general.php
+theme/panel/theme-options/general-settings.php
+theme/panel/theme-options/typography-general.php
+theme/templates/blog/big/markup.php
+theme/templates/blog/small/css/style.css
+theme/templates/blog/small/markup.php
+theme/templates/comments/trackbacks.php
+theme/templates/header/slider.php
+theme/templates/loop/loop.php
+theme/templates/portfolios/full-description/markup.php
+theme/templates/shortcodes/section-blog.php
+wpml-config.xml
+
+------------------ VER 1.3.0 (jan 16, 2013) ---------------
+Added: Reset buttons
+Added: Show/hide update notification
+Fixed: Typography and color options of the navigation
+Fixed: shortcode [image] link attribute
+Fixed: vimeo video in portfolio single page
+Fixed: Share shortcode title
+Fixed: Portfolio full description video error
+Fixed: Removed unwanted code
+Fixed: Unrecognized vimeo video URL
+Fixed: Responsive now is working fine
+Fixed: 404 content ID
+Fixed: yit_is_writable
+Fixed: Warning in notifier update page.
+
+======
+
+CHANGED FILES:
+core/yit/Submenu/Tabs/Theme_option/Colors_Navigation.php
+core/yit/Submenu/Tabs/Theme_option/Typography_Navigation.php
+core/templates/shortcodes/image.php
+core/yit/Shortcodes.php
+single-portfolios.php
+core/templates/shortcodes/share.php
+core/yit/Notifier.php
+theme/config.php
+theme/templates/portfolios/full-description/markup.php
+core/lib/yit/Backup/Backup.php
+theme/yit/Contact_Form.php
+core/functions-core.php
+theme/functions-template.php
+404.php
+core/assets/css/panel.css
+core/assets/images/sprite-themeoptions.png
+core/hooks.php
+core/yit/Submenu/Backup.php
+core/yit/Submenu/Tabs/Backup/Reset_Reset.php
+
+------------------ VER 1.2.0 (dec 17, 2012) ---------------
+Theme Option speed improved
+Core improved
+Added: Next & Prev buttons in Portfolio detail
+Added: Support to Google Fonts Subset
+Added: Newsletter configuration panel
+Added: FAQ shortcode
+Added: Features tab
+Added: Russian language and languages updated
+Fixed: Warning cache permissions
+Fixed: Services Section styles
+Fixed: Contact Form bugs
+Fixed: Portfolio section bugs
+Fixed: Toggle shortcode labels
+Fixed: Menu position of custom post types, hidden from other plugins.
+Fixed: Theme Options loading tabs
+Fixed: bug in yit_clean_text()
+Fixed: color box text non visibile su safari
+Fixed: sc soundcloud
+Fixed: Upload images button did not work with WP 3.5
+Fixed: [share] shortcode links
+Fixed: Warning in update notifier page
+
+======
+
+CHANGED FILES:
+core/*
+theme/yit/Contact_Form.php
+theme/yit/Accordion.php
+theme/templates/sliders/thumbnails/slider.php
+theme/templates/sliders/layer-slider/slider.php
+theme/templates/sliders/flexslider/slider.php
+theme/templates/sliders/cycle/slider.php
+theme/templates/sliders/cycle/css/cycle.css
+theme/templates/single/portfolio.php
+theme/templates/shortcodes/section-services.php
+theme/templates/shortcodes/section-portfolio.php
+theme/templates/shortcodes/section-blog.php
+theme/templates/header/header.php
+theme/templates/blog/big/markup.php
+theme/templates/admin/post-type-unlimited/settings-contactform-field.php
+theme/templates/admin/post-type-unlimited
+theme/templates/admin
+theme/templates/accordions/markup.php
+theme/shortcodes.php
+theme/panel/theme-options/typography-general.php
+theme/panel/theme-options/colors-navigation.php
+theme/assets/images/bg-features-tab.png
+theme/assets/css/shortcodes.css
+theme/assets/css/popup.css
+theme/assets/css/featurestab.css
+theme/assets/css/contact_form.css
+theme/assets/css/colorbox.css
+theme/functions-template.php
+theme/hooks.php
+theme/functions-theme.php
+theme/config.php
+js/jquery.custom.js
+languages/readme.txt
+images/faq-opened.png
+images/faq-closed.png
+css/max-width-1024.css
+style.css
+
+
+
+------------------ VER 1.1.0 ---------------
+
+- New Dropdown menu
+- Added new Post formats (Audio, Video, Gallery)
+- Added Pagination to Full Description Portfolio
+- Added new Shortcodes [images_slider] and [soundcloud]
+- Submenu color now can be changed correctly
+- Core Bug fixes
+
+Fixed:
+
+
+=======
+
+CHANGED FILES:
+core/*
+theme/assets/css/contact_form.css
+theme/assets/css/shortcodes.css
+theme/assets/images/icons
+theme/assets/images/icons/small-socials
+theme/assets/images/icons/small-socials/blogger.png
+theme/assets/images/icons/small-socials/bookmark.png
+theme/assets/images/icons/small-socials/delicious.png
+theme/assets/images/icons/small-socials/digg.png
+theme/assets/images/icons/small-socials/dribble.png
+theme/assets/images/icons/small-socials/ember.png
+theme/assets/images/icons/small-socials/facebook.png
+theme/assets/images/icons/small-socials/flickr.png
+theme/assets/images/icons/small-socials/forrst.png
+theme/assets/images/icons/small-socials/google.png
+theme/assets/images/icons/small-socials/lastfm.png
+theme/assets/images/icons/small-socials/linkedin.png
+theme/assets/images/icons/small-socials/myspace.png
+theme/assets/images/icons/small-socials/pinterest.jpg
+theme/assets/images/icons/small-socials/quora.png
+theme/assets/images/icons/small-socials/rss.png
+theme/assets/images/icons/small-socials/sharethis.png
+theme/assets/images/icons/small-socials/skype.png
+theme/assets/images/icons/small-socials/stumble.png
+theme/assets/images/icons/small-socials/tumblr.png
+theme/assets/images/icons/small-socials/twitter.png
+theme/assets/images/icons/small-socials/vimeo.png
+theme/assets/images/icons/small-socials/yahoo.png
+theme/assets/images/icons/small-socials/youtube.png
+theme/assets/images/icons/socials
+theme/assets/images/icons/socials/blogger.png
+theme/assets/images/icons/socials/bookmark.png
+theme/assets/images/icons/socials/delicious.png
+theme/assets/images/icons/socials/digg.png
+theme/assets/images/icons/socials/dribble.png
+theme/assets/images/icons/socials/ember.png
+theme/assets/images/icons/socials/facebook.png
+theme/assets/images/icons/socials/flickr.png
+theme/assets/images/icons/socials/forrst.png
+theme/assets/images/icons/socials/google.png
+theme/assets/images/icons/socials/lastfm.png
+theme/assets/images/icons/socials/linkedin.png
+theme/assets/images/icons/socials/mail.png
+theme/assets/images/icons/socials/myspace.png
+theme/assets/images/icons/socials/pinterest.png
+theme/assets/images/icons/socials/quora.png
+theme/assets/images/icons/socials/rss.png
+theme/assets/images/icons/socials/sharethis.png
+theme/assets/images/icons/socials/skype.png
+theme/assets/images/icons/socials/stumble.png
+theme/assets/images/icons/socials/tumblr.png
+theme/assets/images/icons/socials/twitter.png
+theme/assets/images/icons/socials/vimeo.png
+theme/assets/images/icons/socials/yahoo.png
+theme/assets/images/icons/socials/youtube.png
+theme/assets/js/jquery.easing.js
+theme/assets/js/jquery.flexslider-min.js
+theme/config.php
+theme/functions-template.php
+theme/functions-theme.php
+theme/hooks.php
+theme/metaboxes.php
+theme/panel/theme-options/blog-settings.php
+theme/panel/theme-options/colors-navigation.php
+theme/panel/theme-options/general-settings.php
+theme/panel/theme-options/typography-navigation.php
+theme/shortcodes.php
+theme/templates/accordions/markup.php
+theme/templates/blog/big/css/style.css
+theme/templates/blog/big/markup.php
+theme/templates/blog/small/css/style.css
+theme/templates/blog/small/markup.php
+theme/templates/header/head.php
+theme/templates/header/main-navigation.php
+theme/templates/header/map.php
+theme/templates/loop/archives.php
+theme/templates/portfolios/big-image/config.php
+theme/templates/portfolios/full-description/markup.php
+theme/templates/portfolios/three-columns/config.php
+theme/templates/shortcodes/section-blog.php
+theme/templates/shortcodes/section-portfolio.php
+theme/templates/shortcodes/section-services.php
+theme/templates/shortcodes/section_blog.php
+theme/templates/shortcodes/section_portfolio.php
+theme/templates/shortcodes/section_services.php
+theme/templates/sliders/cycle/css/cycle.css
+theme/templates/sliders/elastic/config.php
+theme/templates/sliders/elastic/js/jquery.easing.js
+theme/templates/sliders/flexslider/config.php
+theme/templates/sliders/flexslider/js/jquery.flexslider-min.js
+theme/templates/sliders/layer-slider/config.php
+theme/templates/sliders/layer-slider/js/jquery-easing-1.3.js
+theme/templates/sliders/layer-slider/js/layerslider_admin.js
+theme/templates/sliders/layer-slider/layerslider.php
+theme/widgets.php
+home.php
+images/post-formats.png
+js/jquery.custom.js
+single-portfolios.php
+style.css
+
+
+------------------ VER 1.0.0 ---------------
+Initial Release

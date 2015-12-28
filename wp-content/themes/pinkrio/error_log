@@ -1,0 +1,6 @@
+[09-Feb-2014 18:49:06] PHP Fatal error:  Call to undefined function  get_header() in /home3/wellness/public_html/wp-content/themes/pinkrio/index.php on line 15
+[15-Apr-2014 12:11:06] PHP Fatal error:  Call to undefined function  get_header() in /home3/wellness/public_html/wp-content/themes/pinkrio/index.php on line 15
+[15-Apr-2014 12:11:07] PHP Fatal error:  Call to undefined function  get_header() in /home3/wellness/public_html/wp-content/themes/pinkrio/index.php on line 15
+[23-May-2014 14:29:34 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/wellness/public_html/wp-content/themes/pinkrio/index.php on line 15
+[23-May-2014 14:29:34 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/wellness/public_html/wp-content/themes/pinkrio/index.php on line 15
+[27-May-2015 23:42:41 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/wellness/public_html/wp-content/themes/pinkrio/index.php on line 15

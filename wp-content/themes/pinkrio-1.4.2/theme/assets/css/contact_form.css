@@ -1,0 +1,65 @@
+/* ===== CONTACT FORM ===== */                
+.content .contact-form { margin-top:30px; width:104%; }   
+.content .contact-form fieldset {padding:0;}          
+.content .contact-form ul { margin:0; list-style:none; }  
+.content .contact-form li { width: 44.2%; float: left; margin: 0 5% 2% 0; }
+.content .contact-form li.on-left { float:left; }
+.content .contact-form li.on-right { float:right; }
+.content .contact-form li.full { clear:both; float: none; width: 95%; }
+.content .contact-form li.full label { display: block }  
+.content .contact-form li.textarea-field { clear:both; width:auto; float:none; }
+.content .contact-form label span.label { font-size:13px; }
+.content .contact-form label span.sublabel { font-family: 'Calibri', 'Droid Sans', Verdana, Arial, sans-serif; font-size: 11px; color: #9C9B9B }  
+.content .contact-form li.text-field input, .content .contact-form li.password-field input, .content .contact-form li.checkbox-field input, .content .contact-form li.file-field input, .content .contact-form li select, .content .contact-form li textarea { margin-top:10px; padding:10px; }
+.content .contact-form li.text-field input, .content .contact-form li.password-field input, .content .contact-form li select { font-size: 12px; background-color:#fff; width:97.5%; }
+.content .contact-form li select { padding:10px; }
+.content .contact-form li textarea {  width:97%; height:150px; background-color:#fff; } 
+.content .contact-form li.icon input, .content .contact-form li.icon textarea, .content .contact-form li input.icon, .content .contact-form li textarea.icon { background-repeat:no-repeat; } 
+.content .contact-form li.icon input, .content .contact-form li input.icon { background-position:98% center; }
+.content .contact-form li.icon textarea, .content .contact-form li textarea.icon { background-position: 98% 15px; }
+.content .contact-form li.error input, .content .contact-form li.error textarea, .content .contact-form li.error select,
+.content .contact-form li input.error, .content .contact-form li textarea.error, .content .contact-form li select.error { background-image:url('images/icons/error.png'); border:1px solid #cf0606; } 
+.content .contact-form li.success input, .content .contact-form li.success textarea, .content .contact-form li.success select,
+.content .contact-form li input.success, .content .contact-form li textarea.success, .content .contact-form li select.success { background-image:url('images/icons/success.png'); }                     
+.content .contact-form li div.msg-error { font-style:normal; font-size:11px; color:#cf0606; height:14px; }    
+.content .contact-form li.submit-button {clear:both; width:auto; float:none;}      
+.content .contact-form li.checkbox-field label, .content .contact-form li.radio-field label { display: block; }
+.content .contact-form li.submit-button input {
+    background: url("images/input_pattern.png") repeat-x scroll 0 0 #F3F0F0;
+    border: 1px solid #CFCFCF;
+    cursor: pointer;
+    display: block;
+    font-size: 9px;
+    height: 30px;
+    letter-spacing: 1px;
+    padding: 0 4px;
+    text-transform: uppercase;
+    margin:0;
+    
+}
+.content .contact-form li.submit-button input:hover { background: url("images/input_pattern_hover.png") repeat-x scroll 0 0 #fff; }
+.content .contact-form li.submit-button input[disabled] { color:#ddd; }
+.content .contact-form label, .content .contact-form input, .content .contact-form textarea { color:#4c4c4c; width:auto; }
+.content .contact-form p.success, .content .contact-form p.error { padding:10px 15px 10px 55px; border:1px solid; margin:0 auto 30px; background:no-repeat 15px center; width:400px; }
+.content .contact-form p.success { background-color:#effea9; border-color:#d7ee6e; color:#839607; background-image:url('images/icons/tick_contact.png'); }
+.content .contact-form p.error   { background-color:#fedccd; border-color:#fa8c83; color:#c82c1f; background-image:url('images/icons/error.png'); }
+#yit_bot {display:none !important;}
+
+.input-prepend{ position: relative; }
+.input-prepend .add-on{ position: absolute; top: 40%; right: 0px; }
+.input-prepend .add-on img { max-width: 35px; max-height: 35px; margin-top: -7px; margin-right: -7px; }
+.content .contact-form li.full .input-prepend .add-on { right: 5px; }
+.textarea-field .input-prepend .add-on{ position: absolute; top: 20px; right: 10px; }
+.sidebar-no .textarea-field .input-prepend .add-on{ right: 15px; }
+.ie .textarea-field .input-prepend .add-on{ right: 25px; }
+.input-prepend input.error, .input-prepend textarea.error{ background-image: none !important; }
+
+/* submit alignment */
+.contact-form li.submit-button input.alignleft { float:left; }
+.contact-form li.submit-button input.alignright { float:right; margin-right: 1%; }
+.sidebar-left .contact-form li.submit-button input.alignright,
+.sidebar-right .contact-form li.submit-button input.alignright { float:right; margin-right: 0.5%; }
+.contact-form li.submit-button input.aligncenter { margin:0 auto; }
+
+/*border-radius*/
+.content .contact-form p.success, .content .contact-form p.error { border-radius:8px; -moz-border-radius:8px; -webkit-border-radius:8px; } 

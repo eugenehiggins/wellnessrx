@@ -1,0 +1,61 @@
+.blog-big .edit-link {display:block;float:right;}   
+
+.blog-big .thumbnail h1, .blog-big .thumbnail h2 {-webkit-border-top-left-radius: 10px;-moz-border-radius-topleft: 10px;border-top-left-radius: 10px;z-index:2;} 
+.blog-big .thumbnail {position:relative;overflow:hidden;padding-top:20px;margin: 0 auto !important;max-width: 862px;}                  
+.blog-big .thumbnail .image-wrap img {width:auto;height:auto;max-width:100%;border-radius: 15px;-moz-border-radius: 15px;-webkit-border-radius: 15px;}   
+.blog-big .thumbnail .date {position:absolute;bottom:0;left:0;width:82px;height:91px;background:url('../../../../../images/date-bg.png') no-repeat;margin:0;}
+.blog-big .thumbnail .date span {display:block;float:left;font-family:'Oswald',sans-serif;position:relative;text-transform:uppercase;font-size:18px;}
+.blog-big .thumbnail .month{color:#262626;left:0;text-align:right;top:27px;width:30px;}
+.blog-big .thumbnail .day{color:#FFFFFF;left:8px;top:42px;}     
+.blog-big .meta a, .blog-small .meta a {color:#000;}
+.blog-big .meta a:hover, .blog-small .meta a:hover {color:#333;}  
+.blog-big .list-tags a, .blog-small .list-tags a { color: #999 }
+.blog-big .list-tags a:hover, .blog-small .list-tags a:hover { color: #000 }
+
+.blog-big .meta p {color:#636060;font-family:'Droid Sans',sans-serif !important;line-height:24px;}
+.blog-big .meta span {background:no-repeat left 1px;}            
+.blog-big.blog-big .meta p.author span, .blog-small.blog-big .meta p.author span           {padding-left:36px;background-image:url('../../../../../images/icons/author.png');}
+.blog-big.blog-big .meta p.categories span, .blog-small.blog-big .meta p.categories span   {padding-left:29px;background-image:url('../../../../../images/icons/bookmark.png');}   
+.blog-big.blog-big .meta p.comments span, .blog-small.blog-big .meta p.comments span       {padding-left:25px;background-image:url('../../../../../images/icons/chat.png');}  
+.blog-big.blog-big .meta p span span, .blog-small.blog-big .meta p span span               {background:none !important;padding:0 !important;color:#000;}
+
+.blog-big .thumbnail h1, .blog-big .thumbnail h2 {background:#fff;margin:0;position:absolute;right:0;bottom:0;width:69.1875%;padding:10px 15px;}
+.blog-big .meta span {display:inline-block;}
+.blog-big .meta p {display:block;margin:25px 2.34375% 20px 0;float:left;width:31.77%;text-align:center;padding:6px 0;border:solid #CFCFCF;border-width:1px 0;}
+.blog-big .meta p.comments {margin-right:0;}   
+.blog-big .without.thumbnail {height:91px;} 
+.blog-big .thumbnail .image-wrap {position:relative;} 
+.blog-big .without.thumbnail .image-wrap {float:left;width:82px;height:100%;} 
+.blog-big .thumbnail .date {bottom:0}
+.blog-big .without.thumbnail h1, .blog-big .without.thumbnail h2 {margin:0;padding-top:35px;} 
+.blog-big.sticky .without.thumbnail h1, .blog-big.sticky .without.thumbnail h2 {background:none;}     
+.blog-big p.list-tags {line-height:25px;margin-top:20px;border-top:1px solid #CFCFCF;padding:10px 0 10px 36px;background:url('../../../../../images/icons/article.png') left 15px no-repeat}
+
+.single .blog-big.format-video .without.thumbnail { height: auto; }
+.single .blog-big.format-video .without.thumbnail .image-wrap { width: 100%; min-height: 480px; }
+.single .blog-big.format-video .without.thumbnail .image-wrap iframe, .single .blog-big.format-video .without.thumbnail .image-wrap object { width: 100%; min-height: 480px; }
+.single .blog-big.format-video .without.thumbnail h1, .single .blog-big.format-video .without.thumbnail h2 { padding-top: 10px; }
+
+.blog-big .post-format {
+    background: url(../../../../../images/post-formats.png);
+    display: block;
+    margin: 0px;
+    position: absolute;
+    left: 12px;
+    top: 13px;
+    text-indent: -9999px;
+    width: 33px;
+    height: 33px;
+}
+
+.blog-big .post-format.gallery { background-position: left top; }
+.blog-big .post-format.audio { background-position: center top; }
+.blog-big .post-format.video { background-position: right top; }
+
+.single-post .post-format.video,
+.single-post .post-format.gallery { display: none; }
+
+.soundcloud-frame { margin-top: 20px; }
+.soundcloud-frame iframe { width: 100%; }
+
+.blog-big .post_video { margin-bottom: 0px; }

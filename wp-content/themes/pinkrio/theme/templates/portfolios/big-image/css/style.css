@@ -1,0 +1,22 @@
+.portfolio-big-image { margin-top:20px }
+.portfolio-big-image img { float:left; margin-bottom:0; }
+.portfolio-big-image .work { margin-bottom:60px; }
+.portfolio-big-image .work-description { float:right; width:33.5%; line-height: 2em; }
+.portfolio-big-image h3 { clear:none; margin-top:0 !important; font-size:2em; font-weight:normal; }
+.portfolio-big-image h3 a { text-decoration:none }
+.portfolio-big-image a.thumb { display:block; position:relative; height: 100%; overflow: auto; }
+.portfolio-big-image a.more { padding:10px 20px; text-align:center; border:1px solid #CFCFCF; background:#f3f3f3; color:#605f5f; display:inline-block; line-height:16px }
+.portfolio-big-image a.more:hover { border:1px solid #CFCFCF; background:#eae7e7; text-decoration:none }   
+.portfolio-big-image a.zoom { position:absolute; }  
+.portfolio-big-image .work-thumbnail { position: relative; float: left; width:64.2708%; border: 1px solid #CFCFCF; padding: 5px; max-width:770px; }
+.portfolio-big-image .work-thumbnail img { height:auto !important; max-width:100%; }
+.portfolio-big-image .work-thumbnail .nozoom { display: block; overflow: hidden; position:relative; }
+.portfolio-big-image .work-skillsdate  { border: 1px solid #CFCFCF; border-width: 1px 0; padding: 5px 0; margin: 27px 0 0 0 }
+.portfolio-big-image .work-skillsdate p { line-height: 1em;  }
+.portfolio-big-image .work-skillsdate span { padding-right: 5px; text-transform: none; font-weight: bold; font-family: 'Rokkitt', 'Georgia', 'Times New Roman', serif; font-size: 15px; }
+.portfolio-big-image .overlay {display:none; background: none repeat scroll 0 0 #000;height:100%;left:0;overflow: hidden; position: absolute; top:0; width:100%; opacity: .7; text-align: center}
+.portfolio-big-image .overlay a { display: block; float: left; height: 100%; width: 50%; line-height: 9999px; overflow: hidden; }
+.portfolio-big-image .overlay a.overlay_project { background: url('../../../../../images/icons/project.png') 5% center no-repeat }
+.portfolio-big-image .overlay a.overlay_img { background: url('../../../../../images/icons/zoom.png') 95% center no-repeat }
+.portfolio-big-image .overlay a.overlay_video { background: url('../../../../../images/icons/play.png') 95% center no-repeat }
+.portfolio-big-image .overlay span.overlay_title { position: absolute; bottom: 30%; color: white; text-align: center; display: block; width: 100%; font-family: 'Rokkitt', 'Georgia', 'Times New Roman', serif; font-size: 16px; line-height: 15px; }

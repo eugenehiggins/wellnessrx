@@ -1,0 +1,28 @@
+.portfolio-full-description { margin-top:20px }
+.portfolio-full-description img { float:left; margin-bottom:0; }
+.portfolio-full-description .work { margin-bottom:60px; }
+.portfolio-full-description .work-description { float:right; width:39%; line-height: 2em; }
+.portfolio-full-description h3 { clear:none; margin-top:0 !important; font-size:22px; font-weight:normal; margin-bottom: 20px; }
+.portfolio-full-description h3 a { text-decoration:none }
+.portfolio-full-description a.thumb { display:block; position:relative; border: 1px solid #CFCFCF; width: 700px; padding: 5px; height: 100%; overflow: auto; }
+.portfolio-full-description .extra-images-slider { border: 1px solid #CFCFCF; padding: 5px; }
+.portfolio-full-description a.more { padding:10px 20px; text-align:center; border:1px solid #CFCFCF; background:#f3f3f3; color:#605f5f; display:inline-block; line-height:16px }
+.portfolio-full-description a.more:hover { border:1px solid #CFCFCF; background:#eae7e7; text-decoration:none }   
+.portfolio-full-description a.zoom { position:absolute; width:280px; height:143px; }  
+.portfolio-full-description .work-thumbnail { position: relative; float: left; width:60%; }
+.portfolio-full-description .work-thumbnail img { height:auto !important; }
+.portfolio-full-description .work-skillsdate  { border: 1px solid #CFCFCF; border-width: 1px 0; padding: 5px 0; margin: 27px 0 0 0 }
+.portfolio-full-description .work-skillsdate p { line-height: 1em;  }
+.portfolio-full-description .work-skillsdate span { padding-right: 5px; text-transform: none; font-weight: bold; font-family: 'Rokkitt', 'Georgia', 'Times New Roman', serif; font-size: 15px; }
+.portfolio-full-description-related-projects {}
+.related_project { height: 200px; float: left; margin-right: 28px; margin-bottom: 50px; }
+.sidebar-left .related_project, .sidebar-right .related_project { width: 22.75%;  }
+.sidebar-no .related_project, #primary .extra-content .related_project { width: 15.59%; margin-right: 1%; }
+.related_project h4 { margin-top: 10px; float: left;  }
+.related_project p { float: left; margin-top: 5px; }
+.related_img { display:block; height:auto; overflow:hidden; position:relative; float: left;  border: 1px solid #CFCFCF; padding: 5px; max-width: 100% }
+.related_img img { max-width: 100%; height: auto; width:auto; display:block; }
+.related_project_last  { margin-right: 0 }
+#portfolio.portfolio-full-description a.related_img a.zoom { background:#000 url('../../../../../images/icons/project.png') center no-repeat }
+.portfolio-full-description .post_video { height: 350px; }
+.portfolio-full-description .fulldescription_title h1 { font-size: 22px }
